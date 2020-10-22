@@ -6,5 +6,5 @@ setup(name='parkforruiyang',
       author = 'Ruiyang',                   # Type in your name
       author_email = 'ruiyang@ccs.neu.edu',      # Type in your E-Mail
       url = 'https://github.com/xuruiyang/parkforruiyang',   # Provide either the link to your github or to your website
-      download_url = 'https://github.com/xuruiyang/parkforruiyang/dist/parkforruiyang-0.0.1.tar.gz',    # I explain this later on
+      download_url = 'https://github.com/xuruiyang/parkforruiyang/archive/0.0.1.tar.gz',    # I explain this later on
 )
