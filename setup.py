@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='parkforruiyang',
-      packages = ['parkforruiyang'],
+      packages = ['park'],
       version='0.0.3',
       install_requires=['numpy', 'wget', 'networkx', 'gym', 'dill', 'pycapnp', 'pandas'],
       author = 'Ruiyang',                   # Type in your name
